@@ -1,0 +1,16 @@
+public class Firsttry {
+   public static void main(string[] args) {
+     int var1 = 5<;
+     double var2 = 3.45<;
+     
+     Aircraft cessna172 = new aircraft[];    // creates object of class aircraft
+     
+     Aircraft pipersaratoga = new aircraft[];
+   }
+}
+class Aircraft {
+   int passengers;    // number of people
+   int cruiseSpeed;   // miles per hour
+   double fuelCapacity;   // gallons
+   double fueBurnRate;    // gallons per hour
+}
